@@ -1,4 +1,4 @@
-{ _id: 5c3f7558fa1c322924638919,
+{ _id: 5c3f77260d22ad2550b5e18d,
   refNumber: '1',
   srcTblLnkgLkUp: 'RDM Look up for ANCLRY_RDR_TRNSCTN_CD',
   joinCondition:
@@ -7,8 +7,8 @@
   sts: 'Active',
   createDt: 2018-04-09T18:30:00.000Z,
   updateDt: 2018-04-09T18:30:00.000Z,
-  lastUpdateDt: 2019-01-16T18:14:57.650Z,
-  __v: 0 },{ _id: 5c3f7558fa1c32292463891a,
+  lastUpdateDt: 2019-01-16T18:25:26.312Z,
+  __v: 0 },{ _id: 5c3f77260d22ad2550b5e18e,
   refNumber: '2',
   srcTblLnkgLkUp: 'RDM Look up for CPTTN_AGRMNT_TYPE_CD',
   joinCondition:
@@ -17,8 +17,8 @@
   sts: 'Active',
   createDt: 2018-04-09T18:30:00.000Z,
   updateDt: 2018-04-09T18:30:00.000Z,
-  lastUpdateDt: 2019-01-16T18:14:57.650Z,
-  __v: 0 },{ _id: 5c3f7558fa1c32292463891b,
+  lastUpdateDt: 2019-01-16T18:25:26.312Z,
+  __v: 0 },{ _id: 5c3f77260d22ad2550b5e18f,
   refNumber: '3',
   srcTblLnkgLkUp: 'RDM Look up for CPTTN_LINE_OF_CVRG_CD',
   joinCondition:
@@ -27,8 +27,8 @@
   sts: 'Active',
   createDt: 2018-04-09T18:30:00.000Z,
   updateDt: 2018-04-09T18:30:00.000Z,
-  lastUpdateDt: 2019-01-16T18:14:57.650Z,
-  __v: 0 },{ _id: 5c3f7558fa1c32292463891c,
+  lastUpdateDt: 2019-01-16T18:25:26.312Z,
+  __v: 0 },{ _id: 5c3f77260d22ad2550b5e190,
   refNumber: '4',
   srcTblLnkgLkUp: 'RDM Look up for CPTTN_MBR_GNDR_CD',
   joinCondition:
@@ -37,5 +37,5 @@
   sts: 'Active',
   createDt: 2018-04-09T18:30:00.000Z,
   updateDt: 2018-04-09T18:30:00.000Z,
-  lastUpdateDt: 2019-01-16T18:14:57.650Z,
+  lastUpdateDt: 2019-01-16T18:25:26.312Z,
   __v: 0 }
